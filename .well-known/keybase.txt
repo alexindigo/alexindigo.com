@@ -6,16 +6,16 @@ I hereby claim:
 
   * I am an admin of http://alexindigo.com
   * I am alexindigo (https://keybase.io/alexindigo) on keybase.
-  * I have a public key with fingerprint B6DA 97AF D188 B6E9 8469  8B90 D838 BED9 29CF 2854
+  * I have a public key with fingerprint 71D8 BF40 97D6 3074 051F  9FDC 36CD 6BAC AC4A 6FDC
 
 To claim this, I am signing this object:
 
 {
     "body": {
         "key": {
-            "fingerprint": "b6da97afd188b6e984698b90d838bed929cf2854",
+            "fingerprint": "71d8bf4097d63074051f9fdc36cd6bacac4a6fdc",
             "host": "keybase.io",
-            "key_id": "d838bed929cf2854",
+            "key_id": "36CD6BACAC4A6FDC",
             "uid": "d4b39d88ae744df28a001670bdd0e000",
             "username": "alexindigo"
         },
@@ -26,35 +26,40 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1396073040,
+    "ctime": 1396077103,
     "expire_in": 157680000,
-    "prev": "9b2f270cb60204b75a98fa39cebba558199f96cdd6ce757cdc0176cb69c313a8",
-    "seqno": 3,
+    "prev": "48b807def51747cf8efb2b6cc2c629661ef17a64e195cafaa93f01a52b7ce74e",
+    "seqno": 7,
     "tag": "signature"
 }
 
 with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v0.1.1
-Comment: https://keybase.io/crypto
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
 
-yMHxAnicbZFbSBxXHMZ3vUQjBLSuMVVsZEouhEXmtjNzthqS0hJULEqCItm4mTNz
-Zh0vM5OZ2Y0itg+BINSsCwWD8aVYY6IUIraQh8TVGkWK5KEPBjamQZtGyBrSpjXW
-WKueMelT8nQ43/f7vv8f/tP7Ul1Z7hTPEav03tKye27yVdh1moPVHQTU5XbC30E0
-o91HUbUQMg1T1WzCT0BOFgEvKjIlCJBDQGA5IEBAygIjQCQDGkgKLfhYwks06paT
-wDVQtFCJqmMNf4KqjNX38OE3BgsZIAuCiHiWlbEnkiTF8SSUZRKRJOmAFjI1sRVh
-WmxBbaomqyGd6PQSWI+oEtY7doe/w5RIeivOG6Zu65Legr1G2zb8TtRuNxz2IoLB
-ty1B6IS0EA5EkGmpukb4KUxKturUUgzgSJ4hWdJLoDZDNVFQdQgfzwl4TawaJorg
-SgBpheZJCXIkTbKQ94lAUEQGSAhC0ecTKAAUwEmyzEmI9/GSLJEUz2EcSAzFiAKe
-b6ELmk74GbymGMKVlhrSRDtsIqJzajKQ5nJnufakpzjXc2Xtzf7/pj8mM7abqypu
-P91senJg1RX35NMjwd96enL//XNq82Vx9CZd/IXn95n57xbcs/XDhZdfV0wsZ9d9
-VjqWmrjT5Xa7Hp6c7iqfHW/4snw92j+W9uj7uY3z9+mCQMPzwa2PY2bFRPONtXPj
-gaGi4cDhrzYyVyfXacP+5VJlsiyv4Nf5hVOjCTujKhanPEZJ3cGZgaW0biuHfZb4
-71D8rhL/4GrusdIXoz+UjURzPj+zdUvpLH480dQXK/w78snwdq7y0VD/iOeo7A3s
-X+l7MFBkHq/9NFkbC/9RPjjVfbZusR0kE96fM6t7V5iCE8Y/H+bV9H5bX5P+13bb
-9Z++XlvU8wej+VeufVO5A/tBFxI=
-=B0I3
+owGbwMvMwMVodjZ7zRqv/DuMpw98TWIINivSr1ZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSuaGKRZJaSYGluYpZsYG5iYGpoZplmkpycZmySlmSYnJickmiWZAvpKO
+UkZ+MUgH0JikxOJUvcx8oBiQE5+ZAhQ1NnN2MXNydHZ0NnE0c3NxBsqVgiVSTJKM
+LVMsLBJTzU1MUtKMLBINDAzNzA2SUlIMUg0MDEAKi1OL8hJzU4GqE3NSKzLzUjLT
+85VqdZSA4mWZyakgV4Msx1Cjl5yfC9RfUJRfkp+cnwOUyygpKbACaS2pLACpLU9N
+ioeaEp8E0pSXDtRQllpUnJmfp2RlCFSZXJIJMtbQ2NLMwNzc0MBYRym1oiCzKDU+
+E6TC1NzMAuhMA5A1qWVAI00skiwMzFNS00wNzU3Mk9MsUtOSjJLMkpONks2MLM3M
+DFPTDM0TzUxSDS1NkxPTEhMtjdMMDBNNjZLMk4FhkKoE8ldhXr6SlTnQmYnpQCOL
+M9PzEktKi1KVajuZZFgYGLkY2FiZQLHHwMUpAIvT/BABhiYHs218CdY7q5ZGlil2
+y1qEbF5qd/ur3NodDO+kOq9f4D59kD+4M8jOS+qy2l7XCsasF48yFvVuc1jIdl7z
+ZOmDN1NuPGX6ssN30vuy5jk93P+/ztw+07LHM1jvg+ybW0v0Cmet3OH53//Tg0O9
+Kiy12/NOP1+enajzvpS3Q7lls9eR78FsrgunBxZ96GcsYnd8H1r4+9X8TasMva72
+JNo9P1Moyfm5yfHDz39Ck303f97f5lUR9ePY9M6P516EbJT5yDhPrzPgycPZc7Yd
+t1EwfXFZ8oGPVKP2zqd/ZXPfFC9KvXRw8+uj7EKb6wRubkmMD4qdGmhS9nR3pWbu
+Rut/LTw9E2zS1hlcPCBn5Z/+20j0npd8kNYeA+Z6k9gWnqvbbNSOSB2YeuVej2HH
+MaZCgwrFiI5nO+737gwrV+1dHPOBx73mG4uQr9+eo7uTu/+eVlhXnqP5RGSK86Jb
+74/5XWWeqXW2LC80xSbqb0CXyqMsZXke/91u6zcr1Yju5rCcYvz/+TnJhYGR3RVW
+RdXTtXu3KfHx79eZ/JaXu/hU2qQlNypW8F966M33syB8v1hniufxEyxOP2UV/km8
+Ucq5fVa2tHyN76LbDQc5K6SLLTqrl0TW+E3P3/DlVerbH/GzeZozLIUtn32ePfmd
+WyLT6cyIb3wfFz9Y7hGruPmQ7r5rPmoXtScLdXydfWuq2mS1B5MvcZx03RHCCQA=
+=D6eI
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
